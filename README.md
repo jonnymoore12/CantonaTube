@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# Cantona Tube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple one page React app which uses youtube-api-search to allow users to search for videos.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#### Instructions For Use
+From root directory
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+npm install
 ```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
 ```
-> npm install
-> npm start
+npm start
 ```
+Watch lots of videos of Eric Cantona on via the provided localhost.
